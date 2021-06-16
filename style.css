@@ -12,6 +12,7 @@
 	background-position: center;
 	background-size: auto;
 	position: absolute;
+   
 }
 .navbar
 {
@@ -180,4 +181,41 @@ span
 {
 	color:white;
 	font-size: 15;
+}
+.head{
+color: #eff6f785;
+align-items: center;
+
+top: 20%;
+right:40%
+
+}
+.box-transparent {
+    position: absolute;
+
+    background-color: rgba(12, 11, 11, 0.685);
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 500px;
+    padding-bottom: 500x;
+    height: 800px;
+	width: 1400px;
+    
+}
+.book{
+position:absolute;
+top: 10%;
+left:10%
+}
+.MenuItems2{
+color:darkgoldenrod;
+padding: auto;
+position:absolute;
+
+
+}
+text{
+    font-size: 10px;
+    padding: 20px;
+    
 }
