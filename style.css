@@ -182,12 +182,11 @@ span
 	color:white;
 	font-size: 15;
 }
-.head{
-color: #eff6f785;
-align-items: center;
+h1 {
+color:aqua;
+text-align: center;
 
-top: 20%;
-right:40%
+
 
 }
 .box-transparent {
@@ -207,15 +206,14 @@ position:absolute;
 top: 10%;
 left:10%
 }
-.MenuItems2{
-color:darkgoldenrod;
-padding: auto;
+#MenuItems2{
+flex-direction: column-reverse;
 position:absolute;
-
-
+top: 40%;
+left:10%;
 }
-text{
-    font-size: 10px;
-    padding: 20px;
-    
+.head{
+    top:10%;
+    position:absolute;
+
 }
