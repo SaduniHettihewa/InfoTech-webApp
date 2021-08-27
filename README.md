@@ -1,4 +1,5 @@
 # InfoTech-webApp
 Web Application  - InfoTech
 
-https://github.com/SaduniHettihewa/Simple-Web.git
+https://sadunihettihewa.github.io/InfoTech-webApp/#
+
